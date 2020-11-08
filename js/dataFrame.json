@@ -1,0 +1,6 @@
+ {
+        "@context": "https://schema.org/",
+        "@type": "https://schema.org/Dataset",
+        "https://schema.org/name": {},
+        "https://schema.org/description": {}
+ } 

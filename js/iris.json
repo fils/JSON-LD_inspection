@@ -1,0 +1,36 @@
+  {
+ "description": "EMERALD is a complete open-source software server-based system for requesting and processing large sets of event based seismic data from a web browser. Data sets containing millions of seismic waveforms can easily be managed, reviewed, and processed. The system can automatically check for metadata updates, and alert the user to metadata changes. ", 
+ "image": "https://ds.iris.edu/media/product/emerald/images/emerald_logo_1.png", 
+ "includedInDataCatalog": {
+  "url": "https://ds.iris.edu/ds/products/", 
+  "@id": "https://ds.iris.edu/ds/products/", 
+  "@type": "DataCatalog"
+ }, 
+ "dateCreated": "2013-06-13T21:06:39.089", 
+ "keywords": "seismic,geophysics,seismology,EMERALD", 
+ "alternateName": [
+  "EMERALD"
+ ], 
+ "@id": "https://ds.iris.edu/ds/products/emerald/", 
+ "name": "A software framework for seismic event processing", 
+ "author": [
+  {
+   "@type": "Person", 
+   "name": "IRIS Data Products"
+  }, 
+  {
+   "affiliation": {
+    "@type": "Organization", 
+    "name": "Arizona State University"
+   }, 
+   "@type": "Person", 
+   "name": "John West"
+  }
+ ], 
+ "url": "https://ds.iris.edu/ds/products/emerald/", 
+ "@type": "Dataset", 
+ "@context": {
+  "@vocab": "http://schema.org/"
+ }, 
+ "dateModified": "2017-04-28T16:34:53.521"
+}

@@ -1,0 +1,269 @@
+{
+  "@graph": [
+    {
+      "@graph": [
+        {
+          "@id": "_:b0",
+          "@type": "https://schema.org/DataDownload",
+          "https://schema.org/contentUrl": "https://opencoredata.org/id/jrso/do/03773e769e1312efaa3b843eacb1f6a3b629f632b99cec3f009137353be7a959"
+        },
+        {
+          "@id": "_:b1",
+          "@type": "https://schema.org/Place",
+          "https://schema.org/geo": {
+            "@id": "_:b2"
+          }
+        },
+        {
+          "@id": "_:b10",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "3",
+          "https://schema.org/description": "Sequential numbers identifying the cores retrieved from a particular hole.",
+          "https://schema.org/name": "Core",
+          "https://schema.org/unitText": "int64",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/Core"
+          }
+        },
+        {
+          "@id": "_:b11",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "4",
+          "https://schema.org/description": "Letter code identifying the drill bit/coring method used to retrieve the core.",
+          "https://schema.org/name": "Core_type",
+          "https://schema.org/unitText": "string",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/Core_type"
+          }
+        },
+        {
+          "@id": "_:b12",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "5",
+          "https://schema.org/description": "Meters below sea floor to top of core, as measured by drill string and reported from driller.",
+          "https://schema.org/name": "Top_depth_mbsf",
+          "https://schema.org/unitText": "float64",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/Top_depth_mbsf"
+          }
+        },
+        {
+          "@id": "_:b13",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "6",
+          "https://schema.org/name": "Bot_depth_mbsf",
+          "https://schema.org/unitText": "float64",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/"
+          }
+        },
+        {
+          "@id": "_:b14",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "7",
+          "https://schema.org/description": "Number for a run for an analysis.",
+          "https://schema.org/name": "Run_number",
+          "https://schema.org/unitText": "int64",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/Run_number"
+          }
+        },
+        {
+          "@id": "_:b15",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "8",
+          "https://schema.org/name": "Dht_comment",
+          "https://schema.org/unitText": "sql.NullFloat64",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/"
+          }
+        },
+        {
+          "@id": "_:b16",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "9",
+          "https://schema.org/description": "Measurement value of best-fit downhole temperature in degrees Celcius",
+          "https://schema.org/name": "Best_fit_temperature",
+          "https://schema.org/unitText": "sql.NullFloat64",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/Best_fit_temperature"
+          }
+        },
+        {
+          "@id": "_:b2",
+          "@type": "https://schema.org/GeoCoordinates",
+          "https://schema.org/latitude": "24.55",
+          "https://schema.org/longitude": "-79.25"
+        },
+        {
+          "@id": "_:b3",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "0",
+          "https://schema.org/description": "A Joides Resolution expeditions",
+          "https://schema.org/name": "Leg",
+          "https://schema.org/unitText": "int64",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/Leg"
+          }
+        },
+        {
+          "@id": "_:b4",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "1",
+          "https://schema.org/description": "Number identifying the site from which the core was retrieved. A site is the position of a beacon around which holes are drilled.",
+          "https://schema.org/name": "Site",
+          "https://schema.org/unitText": "int64",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/Site"
+          }
+        },
+        {
+          "@id": "_:b5",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "10",
+          "https://schema.org/description": "Measurement value of best-fit error in degrees Celcius.",
+          "https://schema.org/name": "Best_fit_error",
+          "https://schema.org/unitText": "sql.NullFloat64",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/Best_fit_error"
+          }
+        },
+        {
+          "@id": "_:b6",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "11",
+          "https://schema.org/description": "Measurement value of the temperature at mudline in degrees Celcius.",
+          "https://schema.org/name": "Mudline_temperature",
+          "https://schema.org/unitText": "sql.NullFloat64",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/Mudline_temperature"
+          }
+        },
+        {
+          "@id": "_:b7",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "12",
+          "https://schema.org/description": "Name of the tool used for measurement.",
+          "https://schema.org/name": "Tool_name",
+          "https://schema.org/unitText": "string",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/Tool_name"
+          }
+        },
+        {
+          "@id": "_:b8",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "13",
+          "https://schema.org/description": "Remark on a run for analysis.",
+          "https://schema.org/name": "Run_comment",
+          "https://schema.org/unitText": "sql.NullString",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/Run_comment"
+          }
+        },
+        {
+          "@id": "_:b9",
+          "@type": "https://schema.org/PropertyValue",
+          "https://opencoredata.org/voc/janus/v1/hasColPos": "2",
+          "https://schema.org/description": "Letter identifying the hole at a site from which a core was retrieved or data was collected.",
+          "https://schema.org/name": "Hole",
+          "https://schema.org/unitText": "string",
+          "https://schema.org/url": {
+            "@id": "https://opencoredata.org/voc/janus/v1/Hole"
+          }
+        },
+        {
+          "@id": "https://jrso.org",
+          "@type": "https://schema.org/Organization",
+          "https://schema.org/legalNme": "JOIDES Resoultion Science Operator",
+          "https://schema.org/name": "JRSO",
+          "https://schema.org/sameAs": {
+            "@id": "https://re3data.org/repository/r3d100010267"
+          },
+          "https://schema.org/url": "https://iodp.tamu.edu"
+        },
+        {
+          "@id": "https://opencoredata.org/id/jrso/do/03773e769e1312efaa3b843eacb1f6a3b629f632b99cec3f009137353be7a959.jsonld",
+          "@type": "https://schema.org/Dataset",
+          "http://www.w3.org/ns/ldp#inbox": {
+            "@id": "https://opencoredata.org/id/ldn/03773e769e1312efaa3b843eacb1f6a3b629f632b99cec3f009137353be7a959/inbox"
+          },
+          "https://opencoredata.org/voc/janus/v1/hasHole": "A",
+          "https://opencoredata.org/voc/janus/v1/hasLeg": "166",
+          "https://opencoredata.org/voc/janus/v1/hasSite": "1004",
+          "https://opencoredata.org/voc/janus/v1/measurement": "JanusDhtApct",
+          "https://schema.org/additionalType": [
+            {
+              "@id": "https://opencoredata.org/voc/janus/v1/Dataset"
+            },
+            {
+              "@id": "https://opencoredata.org/voc/janus/v1/JanusDhtApct"
+            }
+          ],
+          "https://schema.org/description": "Leg 166 Site 1004 Hole A ( Janus Dht Apct )  ",
+          "https://schema.org/distribution": {
+            "@id": "_:b0"
+          },
+          "https://schema.org/keywords": "DSDP, OPD, IODP, JanusDhtApct",
+          "https://schema.org/license": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "https://schema.org/name": "166_1004A_JanusDhtApct_gOfQHJGF.csv",
+          "https://schema.org/provider": {
+            "@id": "https://jrso.org"
+          },
+          "https://schema.org/publisher": {
+            "@id": "https://jrso.org"
+          },
+          "https://schema.org/spatialCoverage": {
+            "@id": "_:b1"
+          },
+          "https://schema.org/url": "https://opencoredata.org/id/jrso/do/03773e769e1312efaa3b843eacb1f6a3b629f632b99cec3f009137353be7a959",
+          "https://schema.org/variableMeasured": [
+            {
+              "@id": "_:b3"
+            },
+            {
+              "@id": "_:b4"
+            },
+            {
+              "@id": "_:b9"
+            },
+            {
+              "@id": "_:b10"
+            },
+            {
+              "@id": "_:b11"
+            },
+            {
+              "@id": "_:b12"
+            },
+            {
+              "@id": "_:b13"
+            },
+            {
+              "@id": "_:b14"
+            },
+            {
+              "@id": "_:b15"
+            },
+            {
+              "@id": "_:b16"
+            },
+            {
+              "@id": "_:b5"
+            },
+            {
+              "@id": "_:b6"
+            },
+            {
+              "@id": "_:b7"
+            },
+            {
+              "@id": "_:b8"
+            }
+          ]
+        }
+      ],
+      "@id": "https://opencoredata.org/id/jrso/objectgraph/03773e769e1312efaa3b843eacb1f6a3b629f632b99cec3f009137353be7a959"
+    }
+  ]
+}
