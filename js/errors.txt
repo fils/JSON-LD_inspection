@@ -1,0 +1,117 @@
+
+
+
+These 5 documents are empty:
+ocdmsp/scratch/dorun2/do/24f8a999573417abd180dbe475073698a011b17a48e21902c1fd70bc5da7bd6f.jsonld
+ocdmsp/scratch/dorun2/do/55e66bc1f9f39fa9f7471334f56dfd4a70c797d17920f6152ef0756896c02847.jsonld
+ocdmsp/scratch/dorun2/do/86c2f4a44f167124766a0d2fc57a2121a6794e3cbd1a36955fbc38ead1664241.jsonld
+ocdmsp/scratch/dorun2/do/b7829e398cd764aac8ac174050db0b43290fd6e2e4a7e18343796036ba32e075.jsonld
+ocdmsp/scratch/dorun2/do/e96be3a9a7680c0c96e15cc5599eb0d64d949b3f51addb5ea1dcd37b30721729.jsonld
+
+I downloaded the original (ugly) ones to 
+~/src/Projects/opencore/JRSOerrors
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+0 B / ? ┃░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓┃
+.../tmp.o3nA6nrho4:  10.65 KiB / 10.65 KiB ┃▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓┃ 254.21 KiB/s 0s252 /tmp/tmp.o3nA6nrho4 for ocdmsp/scratch/dorun2/do/24f65a8a02a99fec203e69030bcca29ad62e66e2fa296429eece94d8acb0d39c.jsonld
+(node:3439350) UnhandledPromiseRejectionWarning: jsonld.InvalidUrl: Dereferencing a URL did not result in a valid JSON-LD object. Possible causes are an inaccessible URL perhaps due to a same-origin policy (ensure the server uses CORS if you are using client-side JavaScript), too many redirects, a non-JSON response, or more than one HTTP Link Header was provided for a remote context.
+    at ContextResolver._fetchContext (/home/fils/src/Projects/ECO/JSON-LD_inspection/js/node_modules/jsonld/lib/ContextResolver.js:173:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:3439350) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:3439350) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+ 0 B / ? ┃░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓┃0 /tmp/tmp.h0ai1VOcBi for ocdmsp/scratch/dorun2/do/24f8a999573417abd180dbe475073698a011b17a48e21902c1fd70bc5da7bd6f.jsonld
+
+
+
+0 B / ? ┃░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓┃
+.../tmp.1CmMcLetZk:  10.63 KiB / 10.63 KiB ┃▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓┃ 161.55 KiB/s 0s252 /tmp/tmp.1CmMcLetZk for ocdmsp/scratch/dorun2/do/55e6164f3bec66a1799a71aeda8edba2a90c780f39478a718dff45944244559f.jsonld
+(node:3632747) UnhandledPromiseRejectionWarning: jsonld.InvalidUrl: Dereferencing a URL did not result in a valid JSON-LD object. Possible causes are an inaccessible URL perhaps due to a same-origin policy (ensure the server uses CORS if you are using client-side JavaScript), too many redirects, a non-JSON response, or more than one HTTP Link Header was provided for a remote context.
+    at ContextResolver._fetchContext (/home/fils/src/Projects/ECO/JSON-LD_inspection/js/node_modules/jsonld/lib/ContextResolver.js:173:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:3632747) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:3632747) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+ 0 B / ? ┃░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓┃0 /tmp/tmp.hPOSmglnCO for ocdmsp/scratch/dorun2/do/55e66bc1f9f39fa9f7471334f56dfd4a70c797d17920f6152ef0756896c02847.jsonld
+
+
+0 B / ? ┃░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓┃
+.../tmp.VuHSJG02Fz:  11.15 KiB / 11.15 KiB ┃▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓┃ 282.18 KiB/s 0s262 /tmp/tmp.VuHSJG02Fz for ocdmsp/scratch/dorun2/do/86c0749126675e050612acab99091727e06b9ae61de4b70d15ba3429c78118f7.jsonld
+(node:3826439) UnhandledPromiseRejectionWarning: jsonld.InvalidUrl: Dereferencing a URL did not result in a valid JSON-LD object. Possible causes are an inaccessible URL perhaps due to a same-origin policy (ensure the server uses CORS if you are using client-side JavaScript), too many redirects, a non-JSON response, or more than one HTTP Link Header was provided for a remote context.
+    at ContextResolver._fetchContext (/home/fils/src/Projects/ECO/JSON-LD_inspection/js/node_modules/jsonld/lib/ContextResolver.js:173:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:3826439) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:3826439) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+ 0 B / ? ┃░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓┃0 /tmp/tmp.M8AIqHbttE for ocdmsp/scratch/dorun2/do/86c2f4a44f167124766a0d2fc57a2121a6794e3cbd1a36955fbc38ead1664241.jsonld
+
+
+0 B / ? ┃░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓┃
+.../tmp.FlIJfRztrd:  16.01 KiB / 16.01 KiB ┃▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓┃ 217.39 KiB/s 0s372 /tmp/tmp.FlIJfRztrd for ocdmsp/scratch/dorun2/do/b781245c61db6f89610e8980fd8019c8c8e133f35f0c647e06a40385203ecdb6.jsonld
+(node:4022680) UnhandledPromiseRejectionWarning: jsonld.InvalidUrl: Dereferencing a URL did not result in a valid JSON-LD object. Possible causes are an inaccessible URL perhaps due to a same-origin policy (ensure the server uses CORS if you are using client-side JavaScript), too many redirects, a non-JSON response, or more than one HTTP Link Header was provided for a remote context.
+    at ContextResolver._fetchContext (/home/fils/src/Projects/ECO/JSON-LD_inspection/js/node_modules/jsonld/lib/ContextResolver.js:173:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:4022680) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:4022680) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+ 0 B / ? ┃░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓┃0 /tmp/tmp.ADVTSTTil4 for ocdmsp/scratch/dorun2/do/b7829e398cd764aac8ac174050db0b43290fd6e2e4a7e18343796036ba32e075.jsonld
+
+
+ 0 B / ? ┃░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓┃
+.../tmp.xgZ8JdIoU3:  7.85 KiB / 7.85 KiB ┃▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓┃ 187.55 KiB/s 0s182 /tmp/tmp.xgZ8JdIoU3 for ocdmsp/scratch/dorun2/do/e95e54ec340db8974827ad8c08b3479f6016aac8682e4156ff2d5f98b67e4a7a.jsonld
+(node:22400) UnhandledPromiseRejectionWarning: jsonld.InvalidUrl: Dereferencing a URL did not result in a valid JSON-LD object. Possible causes are an inaccessible URL perhaps due to a same-origin policy (ensure the server uses CORS if you are using client-side JavaScript), too many redirects, a non-JSON response, or more than one HTTP Link Header was provided for a remote context.
+    at ContextResolver._fetchContext (/home/fils/src/Projects/ECO/JSON-LD_inspection/js/node_modules/jsonld/lib/ContextResolver.js:173:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:22400) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:22400) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+ 0 B / ? ┃░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓┃0 /tmp/tmp.Op0D4WNGIh for ocdmsp/scratch/dorun2/do/e96be3a9a7680c0c96e15cc5599eb0d64d949b3f51addb5ea1dcd37b30721729.jsonld
+
+
+
+
+
+-----------------------------------------------------
+
+time ./process.sh ocdmsp/ocdprod/jrso > results.txt
+(node:510594) UnhandledPromiseRejectionWarning: jsonld.InvalidUrl: Dereferencing a URL did not result in a valid JSON-LD object. Possible causes are an inaccessible URL perhaps due to a same-origin policy (ensure the server uses CORS if you are using client-side JavaScript), too many redirects, a non-JSON response, or more than one HTTP Link Header was provided for a remote context.
+    at ContextResolver._fetchContext (/home/fils/src/Projects/ECO/JSON-LD_inspection/js/node_modules/jsonld/lib/ContextResolver.js:173:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:510594) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:510594) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:678852) UnhandledPromiseRejectionWarning: jsonld.InvalidUrl: Dereferencing a URL did not result in a valid JSON-LD object. Possible causes are an inaccessible URL perhaps due to a same-origin policy (ensure the server uses CORS if you are using client-side JavaScript), too many redirects, a non-JSON response, or more than one HTTP Link Header was provided for a remote context.
+    at ContextResolver._fetchContext (/home/fils/src/Projects/ECO/JSON-LD_inspection/js/node_modules/jsonld/lib/ContextResolver.js:173:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:678852) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:678852) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+(node:843109) UnhandledPromiseRejectionWarning: jsonld.InvalidUrl: Dereferencing a URL did not result in a valid JSON-LD object. Possible causes are an inaccessible URL perhaps due to a same-origin policy (ensure the server uses CORS if you are using client-side JavaScript), too many redirects, a non-JSON response, or more than one HTTP Link Header was provided for a remote context.
+    at ContextResolver._fetchContext (/home/fils/src/Projects/ECO/JSON-LD_inspection/js/node_modules/jsonld/lib/ContextResolver.js:173:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:843109) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:843109) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+./process.sh ocdmsp/ocdprod/jrso > results.txt  9952.41s user 1381.84s system 75% cpu 4:10:16.82 total
+
+
+
+another run
+
+(node:1924349) UnhandledPromiseRejectionWarning: jsonld.InvalidUrl: Dereferencing a URL did not result in a valid JSON-LD object. Possible causes are an inaccessible URL perhaps due to a same-origin policy (ensure the server uses CORS if you are using client-side JavaScript), too many redirects, a non-JSON response, or more than one HTTP Link Header was provided for a remote context.
+    at ContextResolver._fetchContext (/home/fils/src/Projects/ECO/JSON-LD_inspection/js/node_modules/jsonld/lib/ContextResolver.js:173:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:1924349) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:1924349) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:2126431) UnhandledPromiseRejectionWarning: jsonld.InvalidUrl: Dereferencing a URL did not result in a valid JSON-LD object. Possible causes are an inaccessible URL perhaps due to a same-origin policy (ensure the server uses CORS if you are using client-side JavaScript), too many redirects, a non-JSON response, or more than one HTTP Link Header was provided for a remote context.
+    at ContextResolver._fetchContext (/home/fils/src/Projects/ECO/JSON-LD_inspection/js/node_modules/jsonld/lib/ContextResolver.js:173:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:2126431) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:2126431) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:2327836) UnhandledPromiseRejectionWarning: jsonld.InvalidUrl: Dereferencing a URL did not result in a valid JSON-LD object. Possible causes are an inaccessible URL perhaps due to a same-origin policy (ensure the server uses CORS if you are using client-side JavaScript), too many redirects, a non-JSON response, or more than one HTTP Link Header was provided for a remote context.
+    at ContextResolver._fetchContext (/home/fils/src/Projects/ECO/JSON-LD_inspection/js/node_modules/jsonld/lib/ContextResolver.js:173:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(node:2327836) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:2327836) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
